@@ -10,7 +10,7 @@ import Users from './Users';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-       <App />
+    <App />
     <Prova />
     <Band />
     <Users />
